@@ -1,0 +1,8 @@
+C:\Users\lyndo\Source\Repos\FSharpRobot\FSharpRobot\bin\Debug\netcoreapp2.0\FSharpRobot.deps.json
+C:\Users\lyndo\Source\Repos\FSharpRobot\FSharpRobot\bin\Debug\netcoreapp2.0\FSharpRobot.runtimeconfig.json
+C:\Users\lyndo\Source\Repos\FSharpRobot\FSharpRobot\bin\Debug\netcoreapp2.0\FSharpRobot.runtimeconfig.dev.json
+C:\Users\lyndo\Source\Repos\FSharpRobot\FSharpRobot\bin\Debug\netcoreapp2.0\FSharpRobot.dll
+C:\Users\lyndo\Source\Repos\FSharpRobot\FSharpRobot\bin\Debug\netcoreapp2.0\FSharpRobot.pdb
+C:\Users\lyndo\Source\Repos\FSharpRobot\FSharpRobot\obj\Debug\netcoreapp2.0\FSharpRobot.fsprojAssemblyReference.cache
+C:\Users\lyndo\Source\Repos\FSharpRobot\FSharpRobot\obj\Debug\netcoreapp2.0\FSharpRobot.dll
+C:\Users\lyndo\Source\Repos\FSharpRobot\FSharpRobot\obj\Debug\netcoreapp2.0\FSharpRobot.pdb
